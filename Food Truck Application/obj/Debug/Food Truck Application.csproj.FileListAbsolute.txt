@@ -1,0 +1,2 @@
+C:\Users\n.vasanth\source\repos\Food Truck Application\Food Truck Application\obj\Debug\Food Truck Application.csproj.AssemblyReference.cache
+C:\Users\n.vasanth\source\repos\Food Truck Application\Food Truck Application\obj\Debug\Food Truck Application.csproj.CoreCompileInputs.cache
